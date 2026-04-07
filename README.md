@@ -10,21 +10,22 @@
 <h2>🔹 Демонстрация работы приложения</h2>
 
 <div width="100%" align="center">
-<table width="600px" cellSpacing="1" cellpadding="1" border="1">
-<tr><td><img  width="600px" src="media/demo.gif"></td></tr>
-</table>
-  </div>
+<table width="100%" cellpadding="1" border="1">
+<tr align="center"><td><img  src="media/demo.gif" alt="Работа приложения в реальном времени"> <br>
 
+<em >Работа приложения в реальном времени</em></td></tr>
+</table>
+</div>
 <!-- СЕТКА С КАРТИНКАМИ -->
 <table>
 <tr>
 <td align="center">
-<img src="media/screen-2.png" width="100%"><br>
+<img src="media/screen-2.png" width="100%" alt="Начальный экран"><br>
 <em>Начальный экран</em>
 </td>
 
 <td align="center">
-<img src="media/screen-3.png" width="100%"><br>
+<img src="media/screen-3.png" width="100%" alt="Вывод данных"><br>
 <em>Вывод данных</em>
 </td>
 </tr>
@@ -33,26 +34,24 @@
 
 
 <td align="center">
-<img src="media/screen-4.png" width="100%"><br>
+<img src="media/screen-4.png" width="100%" alt="Выбор режима просмотра отчёта"><br>
 <em>Выбор режима просмотра отчёта</em>
 </td>
 
 <td align="center">
-<img src="media/screen-5.png" width="100%"><br>
+<img src="media/screen-5.png" width="100%" alt="Фильтрация по конкретному сотруднику"><br>
 <em>Фильтрация по конкретному сотруднику</em>
 </td>
 </tr>
 
 <tr>
-
-
 <td align="center">
-<img src="media/screen-6.png" width="100%"><br>
+<img src="media/screen-6.png" width="100%" alt="Фильтрация по статусу задачи" ><br>
 <em>Фильтрация по статусу задачи</em>
 </td>
 
 <td align="center">
-<img src="media/screen-7.png" width="100%"><br>
+<img src="media/screen-7.png" width="100%" alt="Фильтрация по датам"><br>
 <em>Фильтрация по датам</em>
 </td>
 </tr>
@@ -61,7 +60,7 @@
 
 
 <td align="center">
-<img src="media/screen-8.png" width="100%"><br>
+<img src="media/screen-8.png" width="100%" alt="Индикация перерасхода энергии"><br>
 <em>Индикация перерасхода времени</em>
 </td>
 </tr>
