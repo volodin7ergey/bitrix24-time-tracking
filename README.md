@@ -52,7 +52,7 @@
 </td>
 
 <td align="center">
-<img src="media/screen-7.png" width="300"><br>
+<img src="media/screen-7.png" width="100%"><br>
 <em>Фильтрация по датам</em>
 </td>
 </tr>
@@ -61,7 +61,7 @@
 
 
 <td align="center">
-<img src="media/screen-8.png" width="300"><br>
+<img src="media/screen-8.png" width="100%"><br>
 <em>Индикация перерасхода времени</em>
 </td>
 </tr>
