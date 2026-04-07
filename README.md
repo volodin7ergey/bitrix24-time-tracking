@@ -5,11 +5,68 @@
 Помогает видеть отклонения от плановых задач и оперативно реагировать на перерасход времени.
 </p>
 
+<hr>
+
+<h2>🔹 Демонстрация работы приложения</h2>
+
 <div width="100%" align="center">
 <table width="600px" cellSpacing="1" cellpadding="1" border="1">
 <tr><td><img  width="600px" src="media/demo.gif"></td></tr>
 </table>
   </div>
+
+<!-- СЕТКА С КАРТИНКАМИ -->
+<table>
+<tr>
+<td align="center">
+<img src="media/screen-2.png" width="100%"><br>
+<em>Начальный экран</em>
+</td>
+
+<td align="center">
+<img src="media/screen-3.png" width="100%"><br>
+<em>Вывод данных</em>
+</td>
+</tr>
+
+<tr>
+
+
+<td align="center">
+<img src="media/screen-4.png" width="100%"><br>
+<em>Выбор режима просмотра отчёта</em>
+</td>
+
+<td align="center">
+<img src="media/screen-5.png" width="100%"><br>
+<em>Фильтрация по конкретному сотруднику</em>
+</td>
+</tr>
+
+<tr>
+
+
+<td align="center">
+<img src="media/screen-6.png" width="100%"><br>
+<em>Фильтрация по статусу задачи</em>
+</td>
+
+<td align="center">
+<img src="media/screen-7.png" width="300"><br>
+<em>Фильтрация по датам</em>
+</td>
+</tr>
+
+<tr>
+
+
+<td align="center">
+<img src="media/screen-8.png" width="300"><br>
+<em>Индикация перерасхода времени</em>
+</td>
+</tr>
+</table>
+
 <hr>
 
 <h2>🔹 Проблема</h2>
@@ -82,61 +139,6 @@
 <li>Статус задачи</li>
 <li>Период</li>
 </ul>
-
-<hr>
-
-<h2>🔹 Демонстрация работы приложения</h2>
-
-<!-- СЕТКА С КАРТИНКАМИ -->
-<table>
-<tr>
-<td align="center">
-<img src="media/screen-1.png" width="300"><br>
-<em>Загрузка приложения</em>
-</td>
-
-<td align="center">
-<img src="media/screen-2.png" width="300"><br>
-<em>Начальный экран</em>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="media/screen-3.png" width="300"><br>
-<em>Вывод данных</em>
-</td>
-
-<td align="center">
-<img src="media/screen-4.png" width="300"><br>
-<em>Выбор режима просмотра отчёта</em>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="media/screen-5.png" width="300"><br>
-<em>Фильтрация по конкретному сотруднику</em>
-</td>
-
-<td align="center">
-<img src="media/screen-6.png" width="300"><br>
-<em>Фильтрация по статусу задачи</em>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="media/screen-7.png" width="300"><br>
-<em>Фильтрация по датам</em>
-</td>
-
-<td align="center">
-<img src="media/screen-8.png" width="300"><br>
-<em>Индикация перерасхода времени</em>
-</td>
-</tr>
-</table>
 
 <hr>
 
