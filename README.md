@@ -146,7 +146,7 @@
 <h2>🔹 Технологии</h2>
 
 <ul>
-<li><b>Frontend:</b> Vue + Vuetify,  Vite, JavaScript, Sass</li>
+<li><b>Frontend:</b> Vue + Vuetify,  Vite, Typescript, Sass</li>
 <li><b>Интеграция:</b> Bitrix24 REST API</li>
 </ul>
 
