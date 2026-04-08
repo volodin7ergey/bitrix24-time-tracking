@@ -20,12 +20,12 @@
 <table>
 <tr>
 <td align="center">
-<img src="media/screen-2.png" width="100%" alt="Начальный экран"><br>
+<img src="media/screen-1.jpg" width="100%" alt="Начальный экран"><br>
 <em>Начальный экран</em>
 </td>
 
 <td align="center">
-<img src="media/screen-3.png" width="100%" alt="Вывод данных"><br>
+<img src="media/screen-2.jpg" width="100%" alt="Вывод данных"><br>
 <em>Вывод данных</em>
 </td>
 </tr>
@@ -34,24 +34,24 @@
 
 
 <td align="center">
-<img src="media/screen-4.png" width="100%" alt="Выбор режима просмотра отчёта"><br>
+<img src="media/screen-3.jpg" width="100%" alt="Выбор режима просмотра отчёта"><br>
 <em>Выбор режима просмотра отчёта</em>
 </td>
 
 <td align="center">
-<img src="media/screen-5.png" width="100%" alt="Фильтрация по конкретному сотруднику"><br>
+<img src="media/screen-4.jpg" width="100%" alt="Фильтрация по конкретному сотруднику"><br>
 <em>Фильтрация по конкретному сотруднику</em>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="media/screen-6.png" width="100%" alt="Фильтрация по статусу задачи" ><br>
+<img src="media/screen-5.jpg" width="100%" alt="Фильтрация по статусу задачи" ><br>
 <em>Фильтрация по статусу задачи</em>
 </td>
 
 <td align="center">
-<img src="media/screen-7.png" width="100%" alt="Фильтрация по датам"><br>
+<img src="media/screen-6.jpg" width="100%" alt="Фильтрация по датам"><br>
 <em>Фильтрация по датам</em>
 </td>
 </tr>
@@ -60,7 +60,7 @@
 
 
 <td align="center">
-<img src="media/screen-8.png" width="100%" alt="Индикация перерасхода энергии"><br>
+<img src="media/screen-7.jpg" width="100%" alt="Индикация перерасхода энергии"><br>
 <em>Индикация перерасхода времени</em>
 </td>
 </tr>
