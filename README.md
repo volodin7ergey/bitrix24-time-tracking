@@ -1,31 +1,37 @@
-<h1>Контроль трудозатрат и загрузки команды ⏱️</h1>
+<h1 align="center">Контроль трудозатрат и загрузки команды ⏱️</h1>
 
-<p>
+<p align="center">
 Инструмент для автоматизации контроля трудозатрат сотрудников и анализа загрузки команды в <b>Bitrix24</b>.<br>
-Помогает видеть отклонения от плановых задач и оперативно реагировать на перерасход времени.
+Позволяет видеть отклонения от плановых задач и оперативно реагировать на перерасход времени
+</p>
+
+<p align="center">
+<b>📊 Мониторинг загрузки • ⏱️ Контроль времени • 🏆 Выявление проблемных задач</b>
 </p>
 
 <hr>
 
+<h2>🎥 Демонстрация</h2>
 
-
-<h2>🔹 Демонстрация работы приложения</h2>
-
-<div width="100%" align="center">
+<div align="center">
 <table width="100%" cellpadding="1" border="1">
-<tr align="center"><td><img  src="media/demo.gif" alt="Работа приложения в реальном времени"> <br>
-
-<em >Работа приложения в реальном времени</em></td></tr>
+<tr align="center">
+<td>
+<img src="media/demo.gif" alt="Работа приложения в реальном времени" width="100%"><br>
+<em>Работа приложения в реальном времени</em>
+</td>
+</tr>
 </table>
 </div>
-<!-- СЕТКА С КАРТИНКАМИ -->
-<table>
+
+<br>
+
+<table width="100%">
 <tr>
 <td align="center">
 <img src="media/screen-1.jpg" width="100%" alt="Начальный экран"><br>
 <em>Начальный экран</em>
 </td>
-
 <td align="center">
 <img src="media/screen-2.jpg" width="100%" alt="Вывод данных"><br>
 <em>Вывод данных</em>
@@ -33,13 +39,10 @@
 </tr>
 
 <tr>
-
-
 <td align="center">
 <img src="media/screen-3.jpg" width="100%" alt="Выбор режима просмотра отчёта"><br>
 <em>Выбор режима просмотра отчёта</em>
 </td>
-
 <td align="center">
 <img src="media/screen-4.jpg" width="100%" alt="Фильтрация по конкретному сотруднику"><br>
 <em>Фильтрация по конкретному сотруднику</em>
@@ -48,10 +51,9 @@
 
 <tr>
 <td align="center">
-<img src="media/screen-5.jpg" width="100%" alt="Фильтрация по статусу задачи" ><br>
+<img src="media/screen-5.jpg" width="100%" alt="Фильтрация по статусу задачи"><br>
 <em>Фильтрация по статусу задачи</em>
 </td>
-
 <td align="center">
 <img src="media/screen-6.jpg" width="100%" alt="Фильтрация по датам"><br>
 <em>Фильтрация по датам</em>
@@ -59,8 +61,6 @@
 </tr>
 
 <tr>
-
-
 <td align="center">
 <img src="media/screen-7.jpg" width="100%" alt="Индикация перерасхода энергии"><br>
 <em>Индикация перерасхода времени</em>
@@ -70,26 +70,22 @@
 
 <hr>
 
-<h2>🔹 Проблема</h2>
+<h2>🧩 Контекст задачи</h2>
 
-<p>Клиент столкнулся с необходимостью:</p>
-
-<ul>
-<li>Удобно отслеживать времязатраты на задачи в команде</li>
-<li>Контролировать перерасход времени и вовремя реагировать на отклонения от плана</li>
-</ul>
+<p>
+Клиенту было важно быстро получать прозрачную картину загрузки команды и видеть, где задачи выполняются дольше планируемого.  
+Нужно было уметь оперативно выявлять перерасход времени и проблемные зоны, чтобы корректировать план работы сотрудников.
+</p>
 
 <hr>
 
-<h2>🔹 Решение</h2>
-
-<p>Разработал приложение, которое позволяет:</p>
+<h2>💡 Что было реализовано</h2>
 
 <ul>
-<li>Получать прозрачную картину загрузки сотрудников</li>
-<li>Сравнивать плановые и фактические трудозатраты</li>
-<li>Сразу подсвечивать перерасход и проблемные задачи</li>
-<li>Создавать отчёты в двух режимах:
+<li>Прозрачный контроль загрузки сотрудников и их трудозатрат</li>
+<li>Сравнение плановых и фактических времязатрат</li>
+<li>Автоматическое выделение перерасхода и проблемных задач</li>
+<li>Отчёты в двух режимах:
   <ul>
     <li><b>По сотруднику</b> – одна строка = один сотрудник</li>
     <li><b>По задаче</b> – одна строка = одна задача</li>
@@ -99,7 +95,17 @@
 
 <hr>
 
-<h2>🔹 Показатели отчета</h2>
+<h2>⚙️ Логика работы</h2>
+
+<ul>
+<li>Отчёт можно просматривать в разных режимах — по сотруднику или по задаче</li>
+<li>Фильтры по сотруднику, статусу задачи и периоду</li>
+<li>Сразу видно перерасход времени и проблемные зоны команды</li>
+</ul>
+
+<hr>
+
+<h2>📊 Метрики отчета</h2>
 
 <table>
 <tr>
@@ -134,30 +140,51 @@
 <li>Количество задач</li>
 </ul>
 
-<p><b>Фильтры:</b></p>
-<ul>
-<li>Сотрудник</li>
-<li>Статус задачи</li>
-<li>Период</li>
-</ul>
+<hr>
+
+<h2>🛠 Технологический стек</h2>
+
+<table width="100%" cellpadding="10">
+<tr>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40"><br>
+<b>Vue.js</b>
+</td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" width="40"><br>
+<b>Vuetify</b>
+</td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"><br>
+<b>TypeScript</b>
+</td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="40"><br>
+<b>Vite</b>
+</td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"><br>
+<b>CSS</b>
+</td>
+
+<td align="center">
+<img src="https://github.com/user-attachments/assets/8d146d5c-1c3e-40e5-af64-584c1aadf25f" width="40"><br>
+<b>Bitrix24 REST API</b>
+</td>
+</tr>
+</table>
 
 <hr>
 
-<h2>🔹 Технологии</h2>
-
-<ul>
-<li><b>Frontend:</b> Vue + Vuetify,  Vite, Typescript, Sass</li>
-<li><b>Интеграция:</b> Bitrix24 REST API</li>
-</ul>
-
-
-
-<h2>🔹 Контакты</h2>
+<h2>📩 Контакты</h2>
 
 <p>
-Если заинтересовало или хотите аналогичное приложение:<br><br>
-
 Telegram: <a href="https://t.me/volodin7ergey">@volodin7ergey</a><br>
 VK: <a href="https://vk.com/volodin7ergey">vk.com/volodin7ergey</a>
+</p>
 
+<p align="center">
+<b><p align="center">
+<b>Готов разработать аналогичные решения под Ваши бизнес-процессы 💼</b>
+</p> </b>
 </p>
